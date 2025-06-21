@@ -8,6 +8,6 @@ Download dlib from pip install "https://raw.githubusercontent.com/Cool-PY/Python
 
 install cmake
 
-errors encounted : dlib issues and Unsupported image type, must be 8bit gray or RGB image. Resolved by downgrading the numpy and python versions to above and dlib downloaded from the above github
+errors encountered : dlib issues and Unsupported image type, must be 8bit gray or RGB image. Resolved by downgrading the numpy and python versions to above and dlib downloaded from the above github
 
 This is a face detection model , since created with dlib it ensures different faces to be saved  and can even return same faces as different persons in different angles . This model is a very basic model . For improved results the model need to be pretaines with large amount of datasets . 
