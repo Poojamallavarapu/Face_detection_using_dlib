@@ -17,7 +17,7 @@ CODES USED IN TERMINAL
 1. python -m venv venv310
 
    
-  .\venv310\Scripts\activate
+   .\venv310\Scripts\activate
 
 
 2. pip install numpy==1.26.4
