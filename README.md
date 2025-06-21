@@ -15,12 +15,18 @@ This is a face detection model , since created with dlib it ensures different fa
 CODES USED IN TERMINAL 
 
 1. python -m venv venv310
-.\venv310\Scripts\activate
+
+   
+  .\venv310\Scripts\activate
 
 
 2. pip install numpy==1.26.4
-pip install opencv-python
-pip install face_recognition
+   
+   
+   pip install opencv-python
+
+
+   pip install face_recognition
 
 
 3. pip install "https://raw.githubusercontent.com/Cool-PY/Python-Dlib-Repository/main/dlib-19.22.99-cp310-cp310-win_amd64.whl"
@@ -34,15 +40,27 @@ pip install face_recognition
 
 
 7. To clone your project in github:
-  git init
-  git add .
-  git commit -m "Initial commit"
-  git remote add origin https://github.com/your-username/your-repo-name.git
-  git push -u origin main
+
+   
+    git init
+
+  
+    git add .
+
+  
+    git commit -m "Initial commit"
+
+  
+    git remote add origin https://github.com/your-username/your-repo-name.git
+
+  
+    git push -u origin main
  
 
-8. If git/index.lock error occurred:
-   del .git\index.lock
+ 8. If git/index.lock error occurred:
+
+    
+     del .git\index.lock
 
 
 
